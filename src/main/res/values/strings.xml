@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banco Triunfo</string>
+    <string name="usuario">Ingrese usuario</string>
+    <string name="password">Ingrese password</string>
+    <string name="enviar">Enviar</string>
+    <string name="crearUsuario">Crear usuario</string>
+    <string name="recuperarPassword">Recuperar password</string>
+</resources>
